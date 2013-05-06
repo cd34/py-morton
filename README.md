@@ -3,4 +3,6 @@
 py-morton
 =========
 
-Convert two numbers into a Morton Number or Z-order number
+Convert two numbers into a Morton Number or Z-order number.
+
+Also includes a lat/long helper.
